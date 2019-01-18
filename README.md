@@ -94,5 +94,8 @@ Add these two functions to you ~/.bashrc file:
 Then you can just call $ enc 'some data' some20characterormorepassphrase
 
 
-**Like This Program? Tips are appreciated! 
-BTC:1F48WFsbCBGuYCopXnBaK9tM7A2JhAWEyw **
+
+
+**Like This Program? Tips are appreciated(!)**
+
+BTC:1F48WFsbCBGuYCopXnBaK9tM7A2JhAWEyw
